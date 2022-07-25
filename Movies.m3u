@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="EP1" tvg-logo="https://m.media-amazon.com/images/I/81W03BksEjL._AC_SL1500_.jpg" group-title="One Piece",EP1
+https://14.mugiwara.xyz/op/saga-1/yabai/hd/op-yabai-01-2-hd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EP1" tvg-logo="https://m.media-amazon.com/images/I/81W03BksEjL._AC_SL1500_.jpg" group-title="One Piece",EP1
 http://s14.bitdl.ir/Series/One.Piece.1080/One%20Piece.001.1080p.x265.bitdownload.ir.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EP2" tvg-logo="https://m.media-amazon.com/images/I/81W03BksEjL._AC_SL1500_.jpg" group-title="One Piece",EP2
 http://s14.bitdl.ir/Series/One.Piece.1080/One%20Piece.002.1080p.x265.bitdownload.ir.mkv
